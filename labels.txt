@@ -1,0 +1,3 @@
+0 background
+1 water
+2 phone
